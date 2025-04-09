@@ -18,7 +18,7 @@
 ## 📸 Preview
 
 > Example:  
-> ![embed-view](assets/embed_view.png)  
+> ![embed-view](assets/embed_view.png) 
 > ![extract-view](assets/extract_view.png)
 
 ---
