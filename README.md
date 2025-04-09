@@ -17,7 +17,6 @@
 
 ## 📸 Preview
 
-> *(Add screenshots of your GUI here — before and after embedding a message)*  
 > Example:  
 > ![embed-view](assets/embed_view.png)  
 > ![extract-view](assets/extract_view.png)
